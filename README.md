@@ -182,7 +182,7 @@ Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliqua
 Get in touch
 ------------
 
-Feel free to contact me if you have questions about my projects or for data analysis/science opportunities and or to collaborate on any data realated projects.
+Feel free to contact me if you have any questions about my projects or for data analysis/science opportunities and/or to collaborate on any data related projects.
 
 *   [dt0911720558@gmail.com](#)
 *   [LinkedIn](https://www.linkedin.com/in/daniel-tadele-gebresenbet-dtadele/)
