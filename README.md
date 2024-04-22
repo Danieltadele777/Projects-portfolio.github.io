@@ -1,42 +1,33 @@
 
-[**Data Science Portfolio** by Daniel Tadele](index.html)
-
 *   [X](https://twitter.com/Danandalucia)
 *   [LinkedIn](https://www.linkedin.com/in/daniel-tadele-gebresenbet-dtadele/)
 *   [Instagram](https://www.instagram.com/tadeledaniel/)
 
-Hi, welcome to my Data Science 
-Portfolio
-===============================
+Welcome to my Data Science Portfolio!
 
-On this page, I demonstrate my skills in solving business challenges usind public Data.
+On this page, I showcase my skills in solving real-world business challenges using publicly available data.
 
-You will also find my professional experiences, skills, tools and concepts involving Data Science and data analysis. Feel free to contact me via the links at the bottom of the page.
-
-*   [Learn More](#)
+You will also find my professional experiences, skills, tools, and concepts related to Data Science and data analysis. Feel free to contact me via the links at the bottom of the page.
 
 ![](images/pic10.jpg)
 
 About Me
 ------------
-My name is Daniel :)
+Hey there! I'm Daniel.
 
-I am a dedicated, disciplined and friendly person.
-I have a finance (Masters in Accounting and Finance)  and a cloud sales (software sales) background with curious, detective like personality with analytical mindset.
-When I was a kid, I saw the power of data in my family business. We used to use data to forcast/predict sales, to stock our stores, and also to prepare for seasonal sales. Since then I never had doubt 'data is the new oil!'
+I am a dedicated, disciplined, and friendly individual. With a background in finance (holding a Masters in Accounting and Finance) and cloud sales (specializing in Cloud sales), I bring a curious, detective-like personality and an analytical mindset to the table. 
 
-Currently, I am looking for a juniour data analyst roles.
+My journey with data began in my family business during my childhood, where I witnessed its power firsthand. We leveraged data to forecast sales, manage inventory for our stores, and prepare for seasonal sales, leaving me with no doubt that 'data is the new oil!'
 
-Besides, I am committed to developing my skills in areas like Machine learning, AI, Statstics and AWS cloud practicionar certifications.
+Currently, I'm on the lookout for junior data analyst roles, eager to apply my skills and passion for data analysis.
+
+Moreover, I'm deeply committed to enhancing my expertise in areas such as Machine Learning, AI, Statistics, and pursuing AWS cloud practitioner certifications.
 
 ------------
 ### PROFESSIONAL TIMELINE
 
 
-
-<strong>&#9733;</strong> 2012 - 2014: Data Analyst at [Genet Gizaw PLC]()
-
-<strong>&#9733;</strong> 2014 - 2016: Sales and Marketing department Head at [SELAJAGIR](https://selajagir.com/)
+<strong>&#9733;</strong> 2016 - 2017: Data Analyst at [SELAJAGIR](https://selajagir.com/)
 
 <strong>&#9733;</strong> 2020 - 2022: SDR at [SELAJAGIR TRADING](https://selajagir.com/)
 
