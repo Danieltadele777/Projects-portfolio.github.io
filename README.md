@@ -182,7 +182,7 @@ Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliqua
 Get in touch
 ------------
 
-Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
+Feel free to contact me if you have questions about my projects or for data analysis/science opportunities and or to collaborate on any data realated projects.
 
 *   [dt0911720558@gmail.com](#)
 *   [LinkedIn](https://www.linkedin.com/in/daniel-tadele-gebresenbet-dtadele/)
