@@ -1,13 +1,10 @@
 
-[**Data Science Portfolio** by Daniel Tadele](index.html)
-
 *   [X](https://twitter.com/Danandalucia)
 *   [LinkedIn](https://www.linkedin.com/in/daniel-tadele-gebresenbet-dtadele/)
 *   [Instagram](https://www.instagram.com/tadeledaniel/)
 
-Hi, welcome to my Data Science 
-Portfolio
-===============================
+Welcome to my Data Science 
+Portfolio!
 
 On this page, I demonstrate my skills in solving business challenges usind public Data.
 
