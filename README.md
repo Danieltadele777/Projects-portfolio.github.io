@@ -27,7 +27,7 @@ My journey with data began in my family business during my childhood, where I wi
 
 <strong>&#9733;</strong> 2020 - 2022: SDR at [SELAJAGIR TRADING](https://selajagir.com/)
 
-<strong>&#9733;</strong> 2022 - 2024: Cloud | SaaS | PaaS | HCI sales for Europe and Africa at [Nutanix](https://www.nutanix.com/)
+<strong>&#9733;</strong> 2022 - 2024: Cloud sales for Europe and Africa at [Nutanix](https://www.nutanix.com/)
 
 ------------
 ### Education
