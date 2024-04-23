@@ -102,6 +102,8 @@ My journey with data began in my family business during my childhood, where I wi
 - Proactive     
 - Analytical Thinking
 - Critical Thinking
+
+  
 ---------------
 ### DATA SCIENCE PROJECTS
 
