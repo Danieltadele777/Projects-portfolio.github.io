@@ -19,10 +19,6 @@ I am a friendly and outgoing person. With a background in finance (holding a Mas
 
 My journey with data began in my family business during my childhood, where I witnessed its power firsthand. We leveraged data to forecast sales, manage inventory for our stores, and prepare for seasonal sales, leaving me with no doubt that 'data is the new oil!'
 
-Currently, I'm on the lookout for junior data analyst roles, eager to apply my skills and passion for data analysis.
-
-Moreover, I'm deeply committed to enhancing my expertise in areas such as Machine Learning, AI, Statistics, and pursuing AWS cloud practitioner certifications.
-
 ------------
 ### PROFESSIONAL TIMELINE
 
