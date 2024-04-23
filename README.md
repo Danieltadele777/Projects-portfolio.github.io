@@ -7,15 +7,15 @@ Welcome to my Data Science Portfolio!
 
 On this page, I showcase my skills in solving real-world business challenges using publicly available data.
 
-You will also find my professional experiences, skills, tools, and concepts related to Data Science and data analysis. Feel free to contact me via the links at the bottom of the page.
+You will also find my professional experiences, skills, tools, and concepts related to Data Science and data analysis. Feel free to contact me via links in the above or at the bottom of this page.
 
-![](images/pic10.jpg)
+<img src="IMG_20230526_222646_712.jpg" alt="AB Testing" width="500"/> 
 
 About Me
 ------------
 Hey there! I'm Daniel.
 
-I am a dedicated, disciplined, and friendly individual. With a background in finance (holding a Masters in Accounting and Finance) and cloud sales (specializing in Cloud sales), I bring a curious, detective-like personality and an analytical mindset to the table. 
+I am a friendly and outgoing person. With a background in finance (holding a Masters in Accounting and Finance) and cloud sales (specializing in Cloud sales), I bring a curious, detective-like personality and an analytical mindset to the table. 
 
 My journey with data began in my family business during my childhood, where I witnessed its power firsthand. We leveraged data to forecast sales, manage inventory for our stores, and prepare for seasonal sales, leaving me with no doubt that 'data is the new oil!'
 
@@ -59,41 +59,42 @@ Moreover, I'm deeply committed to enhancing my expertise in areas such as Machin
 ------------
 ### TECHNICAL SKILLS
 
-Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
+### Data Transformation and Analysis
 
-### Data Extraction, Transformation and Load (ETL) Skills:
+- [Python](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
 
-- <img src="sql_icon.png" alt="SQL" width="30"/> SQL
-- <img src="excel_icon.png" alt="Excel" width="30"/> Excel
-- <img src="sheets_icon.png" alt="Google Sheets" width="30"/> Google Sheets
-- <img src="bigquery_icon.png" alt="Google BigQuery" width="30"/> Google BigQuery
-- <img src="python_icon.png" alt="Python" width="30"/> Python
+- [SQL](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
 
-### Statistics Skills:
+- [Google Sheet](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
 
-- <img src="cohort_icon.png" alt="Cohort Analysis" width="30"/> Cohort Analysis
-- <img src="inferential_stats_icon.png" alt="Inferential Statistics" width="30"/> Inferential Statistics
-- <img src="causal_inference_icon.png" alt="Causal Inference" width="30"/> Causal Inference
-- <img src="ab_testing_icon.png" alt="AB Testing" width="30"/> AB Testing
-- <img src="survival_analysis_icon.png" alt="Survival Analysis" width="30"/> Survival Analysis
-- <img src="matplotlib_icon.png" alt="Matplotlib" width="30"/> Matplotlib
-- <img src="seaborn_icon.png" alt="Seaborn" width="30"/> Seaborn
-- <img src="plotly_icon.png" alt="Plotly" width="30"/> Plotly
+- [Excel](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
 
-### Machine Learning Skills:
+- [Google BigQuery](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
 
-- <img src="data_cleaning_icon.png" alt="Data Cleaning" width="30"/> Data Cleaning
-- <img src="feature_engineering_icon.png" alt="Feature Engineering" width="30"/> Feature Engineering
-- <img src="data_preparation_icon.png" alt="Data Preparation" width="30"/> Data Preparation
-- <img src="dimensionality_reduction_icon.png" alt="Dimensionality Reduction" width="30"/> Dimensionality Reduction
-- <img src="class_imbalance_icon.png" alt="Addressing Class Imbalance" width="30"/> Addressing Class Imbalance
-- <img src="feature_selection_icon.png" alt="Feature Selection" width="30"/> Feature Selection
 
-### Visualization Skills:
+### Statistics
+
+- [Regression Analysis](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
+
+- [Correlation analysis](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
+  
+- [AB Testing](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
+
+- [Hypothesis testing](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
+  
+- [Inferential Statistics](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
+
+
+### Visualization
 
 - [Power BI]()
 - [Looker]()
 - [Tableau]()
+
+
+### Machine Learning
+
+- Currently I am learning. 
 
 ------------
 ### Certifications
@@ -101,34 +102,19 @@ Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliqua
 
 ------------
 ### Soft Skills
-
-- Communication
-- Proactivity
-- Resilience
+- Teamwork    
+- Proactive     
 - Analytical Thinking
 - Critical Thinking
-
-
-
-- Self-motivation
-- Adaptability
-- Teamwork
-- Curiosity
-
-
 ---------------
 ### DATA SCIENCE PROJECTS
 
+### E-commerce-Olist-store
 
-[![](images/pic01.jpg)](#)
+Detailed analysis of a Brazilian Ecommerce store which contains 100k orders from 2016 to 2018. 
 
-### Project one
+*   [GO TO THE PROJECT](https://github.com/Danieltadele777/Ecommerce-Olist-store.git)
 
-Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
-
-*   [GO TO THE PROJECT](#)
-
-[![](images/pic02.jpg)](#)
 
 ### Project two
 
@@ -136,7 +122,6 @@ Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliqua
 
 *   [GO TO THE PROJECT](#)
 
-[![](images/pic03.jpg)](#)
 
 ### Project three
 
@@ -168,9 +153,7 @@ Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliqua
 
 *   [GO TO THE PROJECT](#)
 
-
-
-Get in touch
+### Get in touch
 ------------
 
 Feel free to contact me if you have any questions about my projects or for data analysis/science opportunities and/or to collaborate on any data related projects.
