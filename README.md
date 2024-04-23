@@ -9,7 +9,7 @@ On this page, I showcase my skills in solving real-world business challenges usi
 
 You will also find my professional experiences, skills, tools, and concepts related to Data Science and data analysis. Feel free to contact me via links in the above or at the bottom of this page.
 
-<img src="IMG_20230526_222646_712.jpg" alt="AB Testing" width="500"/> 
+<img src="IMG_20230526_222646_712.jpg" alt="AB Testing" width="250"/> 
 
 About Me
 ------------
