@@ -96,7 +96,7 @@ My journey with data began in my family business during my childhood, where I wi
 ### Certifications
 [Le Wagon Data Analysis Certificate](https://github.com/Danieltadele777/Projects-portfolio.github.io/blob/main/daniel-tadele-gebresenbet-diploma.pdf)
 
-
+<img src="Screenshot 2024-04-25 at 02.24.24.png" alt="AB Testing" width="400"/> 
 
 ------------
 ### Soft Skills
@@ -108,15 +108,18 @@ My journey with data began in my family business during my childhood, where I wi
   
 ---------------
 ### DATA SCIENCE PROJECTS
-
 ### E-commerce-Olist-store
+### <img src="Screenshot 2024-04-25 at 02.55.28.png" alt="AB Testing" width="450"/> 
 
-Conducted an in-depth analysis of a Brazilian Ecommerce store which contains 100k orders from 2016 to 2018. 
+This is real commercial data, it has been anonymised, focused on a Brazilian ecommerce public dataset of orders made at Olist Store. The dataset used for this analysis has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. 
+
+This analysis focused on an order from multiple dimensions: from order status, price, payment and freight performance to customer location, product attributes and finally reviews written by customers. 
 
 *   [GO TO THE PROJECT](https://github.com/Danieltadele777/Ecommerce-Olist-store.git)
 
 
 ### Restaurant-360 food-chain
+### <img src="Screenshot 2024-04-25 at 02.41.10.png" alt="AB Testing" width="450"/> 
 
 Conducted an in-depth analysis of Restaurant 360, comprising 21 stores. The analysis will encompass 3,924,748 orders spanning from 2015 to 2020. Four primary datasets will be utilized: Order Data, Orderline, Payment Data, and ID Store.
 
