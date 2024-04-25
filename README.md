@@ -90,11 +90,13 @@ My journey with data began in my family business during my childhood, where I wi
 
 ### Machine Learning
 
-- Currently I am learning. 
+- In progress
 
 ------------
 ### Certifications
-[Le Wagon Data Analysis Certificate]()
+[Le Wagon Data Analysis Certificate](https://github.com/Danieltadele777/Projects-portfolio.github.io/blob/main/daniel-tadele-gebresenbet-diploma.pdf)
+
+
 
 ------------
 ### Soft Skills
@@ -109,16 +111,16 @@ My journey with data began in my family business during my childhood, where I wi
 
 ### E-commerce-Olist-store
 
-Detailed analysis of a Brazilian Ecommerce store which contains 100k orders from 2016 to 2018. 
+Conducted an in-depth analysis of a Brazilian Ecommerce store which contains 100k orders from 2016 to 2018. 
 
 *   [GO TO THE PROJECT](https://github.com/Danieltadele777/Ecommerce-Olist-store.git)
 
 
-### Project two
+### Restaurant-360 food-chain
 
-Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
+Conducted an in-depth analysis of Restaurant 360, comprising 21 stores. The analysis will encompass 3,924,748 orders spanning from 2015 to 2020. Four primary datasets will be utilized: Order Data, Orderline, Payment Data, and ID Store.
 
-*   [GO TO THE PROJECT](#)
+*   [GO TO THE PROJECT](https://github.com/Danieltadele777/Restaurant-360--food-chain.git)
 
 
 ### Project three
@@ -137,19 +139,6 @@ Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliqua
 
 [![](images/pic05.jpg)](#)
 
-### Project 5
-
-Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
-
-*   [GO TO THE PROJECT](#)
-
-[![](images/pic06.jpg)](#)
-
-### Project 6
-
-Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
-
-*   [GO TO THE PROJECT](#)
 
 ### Get in touch
 ------------
