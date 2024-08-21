@@ -27,6 +27,8 @@ My journey with data began in my family business during my childhood, where I wi
 
 <strong>&#9733;</strong> 2022 - 2024: Cloud sales for Europe and Africa at [Nutanix](https://www.nutanix.com/)
 
+<strong>&#9733;</strong> 2024 - NOW: Freelance Data Analyst | Financial Analyst | Product Analyst
+
 ------------
 ### Education
 
