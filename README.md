@@ -119,24 +119,32 @@ This analysis focused on an order from multiple dimensions: from order status, p
 ### Restaurant-360 food-chain
 ### <img src="Screenshot 2024-04-25 at 02.41.10.png" alt="AB Testing" width="450"/> 
 
-Conducted an in-depth analysis of Restaurant 360, comprising 21 stores. The analysis will encompass 3,924,748 orders spanning from 2015 to 2020. Four primary datasets will be utilized: Order Data, Orderline, Payment Data, and ID Store.
+Conducted an in-depth analysis of Restaurant 360, comprising 21 stores. The analysis will encompass 3,924,748 orders spanning from 2015 to 2020. 
+
+Four primary datasets will be utilized: Order Data, Orderline, Payment Data, and ID Store.
 
 *   [GO TO THE PROJECT](https://github.com/Danieltadele777/Restaurant-360--food-chain.git)
 
 
-### Project three
+### 2020-Financial-Data-Analysis 
+### <img src="Screenshot 2024-08-21 at 11.34.23.png" alt="AB Testing" width="450"/> 
 
-Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
+I conducted an in-depth financial data analysis for an online education provider, analyzing data across various dimensions including regions, time periods (months and weeks), clients, and product categories. 
 
-*   [GO TO THE PROJECT](#)
+This comprehensive analysis focused on sales and revenue, breaking down performance by region, month, office, product, and category.
 
-[![](images/pic04.jpg)](#)
+*   [GO TO THE PROJECT](https://github.com/Danieltadele777/2020-Financial-Data-Analysis.git)
 
-### Project 4
 
-Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
 
-*   [GO TO THE PROJECT](#)
+### 2024 Sport Predictor Analysis
+### <img src="Screenshot 2024-08-21 at 11.43.24.png" alt="AB Testing" width="450"/> 
+
+Sports Predictor is a free feature offered to GemBet users during the Euro2024 and Copa America football competitions. Users could place predictions on specific games, earning full points for guessing the exact score and a lower amount of points for correctly predicting the outcome (winner or draw). Most rounds featured 6 events.
+
+I conducted an in-depth analysis of Euro2024 eGamers, encompassing data from 11 rounds. This analysis included over 50,000 players and examined their predictions, points earned, accuracy of predictions, points by match or event, player type, and overall performance.
+
+*   [GO TO THE PROJECT](https://github.com/Danieltadele777/2024-Sport-Predictor-Analysis.git)
 
 [![](images/pic05.jpg)](#)
 
