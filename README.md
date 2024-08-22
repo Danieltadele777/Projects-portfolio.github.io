@@ -126,6 +126,7 @@ Conducted an in-depth analysis of Restaurant 360, comprising 21 stores. The anal
 Four primary datasets will be utilized: Order Data, Orderline, Payment Data, and ID Store.
 
 *   [GO TO THE PROJECT](https://github.com/Danieltadele777/Restaurant-360--food-chain.git)
+*   [VIDEO PRESENTATION OF THE PROJECT](https://www.youtube.com/watch?v=fD2gj08sKCE)
 
 
 ### 2020-Financial-Data-Analysis 
@@ -136,6 +137,7 @@ I conducted an in-depth financial data analysis for an online education provider
 This comprehensive analysis focused on sales and revenue, breaking down performance by region, month, office, product, and category.
 
 *   [GO TO THE PROJECT](https://github.com/Danieltadele777/2020-Financial-Data-Analysis.git)
+*   [VIDEO PRESENTATION OF THE PROJECT](https://drive.google.com/file/d/149gPzWwHaLFPqMYe4cgAnY1ethSFuxdT/view?usp=drive_link)
 
 
 
@@ -147,6 +149,7 @@ Sports Predictor is a free feature offered to GemBet users during the Euro2024 a
 I conducted an in-depth analysis of Euro2024 eGamers, encompassing data from 11 rounds. This analysis included over 50,000 players and examined their predictions, points earned, accuracy of predictions, points by match or event, player type, and overall performance.
 
 *   [GO TO THE PROJECT](https://github.com/Danieltadele777/2024-Sport-Predictor-Analysis.git)
+*   [VIDEO PRESENTATION OF THE PROJECT](https://drive.google.com/file/d/1VAKIDdvsfMm5hDARGbqIctPM5BqnZckr/view?usp=drive_link)
 
 [![](images/pic05.jpg)](#)
 
