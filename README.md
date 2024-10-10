@@ -23,11 +23,11 @@ My journey with data began in my family business during my childhood, where I wi
 ### PROFESSIONAL TIMELINE
 
 
-<strong>&#9733;</strong> 2017 - 2020: Data Analyst at [SELAJAGIR](https://selajagir.com/)
+<strong>&#9733;</strong> 2017 - 2022: Data Analyst: Product and Customer Success (CX) at [SELAJAGIR](https://selajagir.com/)
 
-<strong>&#9733;</strong> 2022 - 2024: Cloud sales for Europe and Africa at [Nutanix](https://www.nutanix.com/)
+<strong>&#9733;</strong> 2022 - 2024: Enterprise Cloud | Lead and Sales Analysis [Nutanix](https://www.nutanix.com/)
 
-<strong>&#9733;</strong> 2024 - NOW: Freelance Data Analyst | Financial Analyst | Product Analyst
+<strong>&#9733;</strong> 2024 - NOW: Freelance Data Analyst | Product Analyst
 
 ------------
 ### Education
@@ -61,6 +61,10 @@ My journey with data began in my family business during my childhood, where I wi
 
 - [SQL](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
 
+- [scikit-learn](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
+
+- [Pandas](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
+
 - [Google Sheet](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
 
 - [Excel](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
@@ -86,11 +90,15 @@ My journey with data began in my family business during my childhood, where I wi
 - [Power BI]()
 - [Looker]()
 - [Tableau]()
+- [Seaborn]()
+- [Matplotlib]()
 
 
 ### Machine Learning
 
-- In progress
+- [Classification Analysis](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
+- [Regression](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
+- [Clustering](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
 
 ------------
 ### Certifications
@@ -100,10 +108,12 @@ My journey with data began in my family business during my childhood, where I wi
 
 ------------
 ### Soft Skills
-- Teamwork    
-- Proactive     
-- Analytical Thinking
-- Critical Thinking
+- [Business Process Optimization, BPMN]()   
+- [Project management]()    
+- [Analytical Thinking]()
+- [Critical Thinking]()
+- [Presentation to technical and non-technical stakeholders]()
+- [Agile methodologies]()
 
   
 ---------------
