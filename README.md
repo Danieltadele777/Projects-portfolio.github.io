@@ -118,8 +118,9 @@ My journey with data began in my family business during my childhood, where I wi
   
 ---------------
 ### DATA SCIENCE PROJECTS
-### E-commerce-Olist-store
-### <img src="Screenshot 2024-04-23 at 12.36.39.png" alt="AB Testing" width="450"/> 
+### E-commerce Analysis
+### <img width="500" alt="Ecom" src="https://github.com/user-attachments/assets/b199cdc4-abbe-4ddd-bb77-fd3b0a4b6df8">
+
 
 This is real commercial data, it has been anonymised, focused on a Brazilian ecommerce public dataset of orders made at Olist Store. The dataset used for this analysis has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. 
 
@@ -128,8 +129,21 @@ This analysis focused on an order from multiple dimensions: from order status, p
 *   [GO TO THE PROJECT](https://github.com/Danieltadele777/Ecommerce-Olist-store.git)
 
 
-### Restaurant-360 food-chain
-### <img src="Screenshot 2024-04-25 at 02.41.10.png" alt="AB Testing" width="450"/> 
+### European Energy Suppliers LTD Imbalance Settlement
+### <img width="500" alt="Energy" src="https://github.com/user-attachments/assets/70d97e77-52fa-4a4d-a9ee-c4e0759959a1">
+
+In this analysis, I focused on reconciling energy imbalances for Energy Suppliers Ltd(name modified to keep privacy). The task was to identify and analyze discrepancies between ES's internal metered data from individual Points of Delivery (PODs) and the allocation data reported by Distribution System Operators (DSOs).
+
+By exploring these imbalances, I aimed to provide actionable insights to optimize energy supply, prevent financial discrepancies, and improve the accuracy of energy reporting between EES and its network partners.
+
+The analysis involved data cleaning, exploratory analysis, hypothesis testing, and visualization to identify patterns and areas requiring intervention.
+
+*   [GO TO THE PROJECT](https://github.com/Danieltadele777/Energy-Suppliers-LTD-Imbalance-Settlement.git)
+
+
+
+### Restaurant chain analysis
+### <img src="Screenshot 2024-04-25 at 02.41.10.png" alt="AB Testing" width="500"/> 
 
 Conducted an in-depth analysis of Restaurant 360, comprising 21 stores. The analysis will encompass 3,924,748 orders spanning from 2015 to 2020. 
 
@@ -139,8 +153,8 @@ Four primary datasets will be utilized: Order Data, Orderline, Payment Data, and
 *   [VIDEO PRESENTATION OF THE PROJECT](https://www.youtube.com/watch?v=fD2gj08sKCE)
 
 
-### 2020-Financial-Data-Analysis 
-### <img src="Screenshot 2024-08-21 at 11.34.23.png" alt="AB Testing" width="450"/> 
+### Financial Data Analysis 
+### <img src="Screenshot 2024-08-21 at 11.34.23.png" alt="AB Testing" width="500"/> 
 
 I conducted an in-depth financial data analysis for an online education provider, analyzing data across various dimensions including regions, time periods (months and weeks), clients, and product categories. 
 
@@ -151,8 +165,8 @@ This comprehensive analysis focused on sales and revenue, breaking down performa
 
 
 
-### 2024 Sport Predictor Analysis
-### <img src="Screenshot 2024-08-21 at 11.43.24.png" alt="AB Testing" width="450"/> 
+### Sport Betting Analysis
+### <img src="Screenshot 2024-08-21 at 11.43.24.png" alt="AB Testing" width="500"/> 
 
 Sports Predictor is a free feature offered to GemBet users during the Euro2024 and Copa America football competitions. Users could place predictions on specific games, earning full points for guessing the exact score and a lower amount of points for correctly predicting the outcome (winner or draw). Most rounds featured 6 events.
 
