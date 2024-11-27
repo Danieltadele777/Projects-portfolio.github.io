@@ -5,7 +5,7 @@
 
 Welcome to my Data Science Portfolio!
 
-On this page, I showcase my skills in solving real-world business challenges using publicly available data.
+On this page, I showcase my skills in solving real-world business challenges using data.
 
 You will also find my professional experiences, skills, tools, and concepts related to Data Science and data analysis. Feel free to contact me via links in the above or at the bottom of this page.
 
@@ -15,7 +15,7 @@ About Me
 ------------
 Hey there! I'm Daniel.
 
-I am a friendly and outgoing person. With a background in finance (holding a Masters in Accounting and Finance) and cloud sales (specializing in Cloud sales), I bring a curious, detective-like personality and an analytical mindset to the table. 
+With a background in finance (holding a Master's in Accounting and Finance) and cloud sales, I bring a curious, detective-like personality and an analytical mindset to the table. 
 
 My journey with data began in my family business during my childhood, where I witnessed its power firsthand. We leveraged data to forecast sales, manage inventory for our stores, and prepare for seasonal sales, leaving me with no doubt that 'data is the new oil!'
 
@@ -23,34 +23,24 @@ My journey with data began in my family business during my childhood, where I wi
 ### PROFESSIONAL TIMELINE
 
 
-<strong>&#9733;</strong> 2017 - 2022: Data Analyst: Product and Customer Success (CX) at [SELAJAGIR](https://selajagir.com/)
+<strong>&#9733;</strong> 2018 - 2022: Data Analyst: Product and Customer Success (CX) at [SELAJAGIR](https://selajagir.com/)
 
-<strong>&#9733;</strong> 2022 - 2024: Enterprise Cloud | Lead and Sales Analysis [Nutanix](https://www.nutanix.com/)
+<strong>&#9733;</strong> 2022 - 2023: Enterprise Cloud | Lead and Sales Analysis [Nutanix](https://www.nutanix.com/)
 
 <strong>&#9733;</strong> 2024 - NOW: Freelance Data Analyst | Product Analyst
 
 ------------
 ### Education
 
-<strong>&#9733;</strong> 2023 - 2024: Data Analysis bootcamp at [Le Wagon](https://www.lewagon.com/)
+<strong>&#9733;</strong> Data Analysis bootcamp at [Le Wagon](https://www.lewagon.com/)
 
-<strong>&#9733;</strong> 2017 - 2018: Masters student in Accounting and Finance[London School of Business](https://www.lsib.co.uk/)
+<strong>&#9733;</strong> Masters student in Accounting and Finance [London School of Business](https://www.lsib.co.uk/)
 
-<strong>&#9733;</strong> Apr. 12, 2017: Fundamentals of Business Expansion [Yali Network: Young Africans Leaders Initiative](https://yali.state.gov/network/)
+<strong>&#9733;</strong> Fundamentals of Business Expansion [Yali Network: Young Africans Leaders Initiative](https://yali.state.gov/network/)
 
-<strong>&#9733;</strong> Mar. 5, 2017: Understanding Modern Business and Organizations [University of Strathclyde](https://www.strath.ac.uk/)
+<strong>&#9733;</strong> Understanding Modern Business and Organizations [University of Strathclyde](https://www.strath.ac.uk/)
 
-<strong>&#9733;</strong> May 11, 2017: Introduction to Corporate Finance [Corporate Finance Institute](https://corporatefinanceinstitute.com/)
-
-<strong>&#9733;</strong> May 12, 2017: Fundamentals of Financial Modeling [Corporate Finance Institute](https://corporatefinanceinstitute.com/)
-
-<strong>&#9733;</strong> May 13, 2017: I got my Business Valuation certificate from [Corporate Finance Institute](https://corporatefinanceinstitute.com/)
-
-<strong>&#9733;</strong> May 13, 2017: FP & A Forcasting certificate from [Corporate Finance Institute](https://corporatefinanceinstitute.com/)
-
-<strong>&#9733;</strong> Nov. 1, 2017: Excel certificate from [Corporate Finance Institute](https://corporatefinanceinstitute.com/)
-
-<strong>&#9733;</strong> Dec. 4, 2018: Behavioral Finance certificate from [Corporate Finance Institute](https://corporatefinanceinstitute.com/)
+<strong>&#9733;</strong> Excel certificate from [Corporate Finance Institute](https://corporatefinanceinstitute.com/)
 
 ------------
 ### TECHNICAL SKILLS
@@ -60,43 +50,17 @@ My journey with data began in my family business during my childhood, where I wi
 - [Python](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
 
 - [SQL](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
-
-- [scikit-learn](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
-
-- [Pandas](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
-
-- [Google Sheet](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
-
-- [Excel](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
-
-- [Google BigQuery](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
-
-
 ### Statistics
-
-- [Regression Analysis](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
-
-- [Correlation analysis](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
-  
 - [AB Testing](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
 
-- [Hypothesis testing](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
-  
-- [Inferential Statistics](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
-
-
 ### Visualization
-
 - [Power BI]()
 - [Looker]()
 - [Tableau]()
-- [Seaborn]()
-- [Matplotlib]()
-
 
 ### Machine Learning
 
-- [Classification Analysis](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
+- [Classification](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
 - [Regression](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
 - [Clustering](<img src="Screenshot 2024-04-23 at 02.06.02.png" alt="AB Testing" width="75"/>)
 
@@ -104,27 +68,23 @@ My journey with data began in my family business during my childhood, where I wi
 ### Certifications
 [Le Wagon Data Analysis Certificate](https://github.com/Danieltadele777/Projects-portfolio.github.io/blob/main/daniel-tadele-gebresenbet-diploma.pdf)
 
+
 <img src="Screenshot 2024-04-25 at 02.24.24.png" alt="AB Testing" width="400"/> 
 
 ------------
 ### Soft Skills
 - [Business Process Optimization, BPMN]()   
 - [Project management]()    
-- [Analytical Thinking]()
-- [Critical Thinking]()
-- [Presentation to technical and non-technical stakeholders]()
 - [Agile methodologies]()
-
-  
 ---------------
 ### DATA SCIENCE PROJECTS
 ### E-commerce Analysis
 ### <img width="500" alt="Ecom" src="https://github.com/user-attachments/assets/b199cdc4-abbe-4ddd-bb77-fd3b0a4b6df8">
 
 
-This is real commercial data, it has been anonymised, focused on a Brazilian ecommerce public dataset of orders made at Olist Store. The dataset used for this analysis has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. 
+This is real commercial data, it has been anonymized and focused on a Brazilian e-commerce public dataset of orders made at Olist Store. The dataset used for this analysis has information on 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. 
 
-This analysis focused on an order from multiple dimensions: from order status, price, payment and freight performance to customer location, product attributes and finally reviews written by customers. 
+This analysis focused on orders from multiple dimensions: from order status, price, payment, and freight performance to customer location, product attributes, and finally reviews written by customers. 
 
 *   [GO TO THE PROJECT](https://github.com/Danieltadele777/Ecommerce-Olist-store.git)
 
@@ -165,7 +125,7 @@ This comprehensive analysis focused on sales and revenue, breaking down performa
 
 
 
-### Sport Betting Analysis
+### Sports Betting Analysis
 ### <img src="Screenshot 2024-08-21 at 11.43.24.png" alt="AB Testing" width="500"/> 
 
 Sports Predictor is a free feature offered to GemBet users during the Euro2024 and Copa America football competitions. Users could place predictions on specific games, earning full points for guessing the exact score and a lower amount of points for correctly predicting the outcome (winner or draw). Most rounds featured 6 events.
@@ -181,7 +141,7 @@ I conducted an in-depth analysis of Euro2024 eGamers, encompassing data from 11 
 ### Get in touch
 ------------
 
-Feel free to contact me if you have any questions about my projects or for data analysis/science opportunities and/or to collaborate on any data related projects.
+Feel free to contact me if you have any questions about my projects or for data analysis/science opportunities and/or to collaborate on any data-related projects.
 
 *   [dt0911720558@gmail.com](#)
 *   [LinkedIn](https://www.linkedin.com/in/daniel-tadele-gebresenbet-dtadele/)
